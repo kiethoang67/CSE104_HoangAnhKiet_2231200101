@@ -1,3 +1,3 @@
 # Lab 1
 
-This directory is for Lab 1 exercises.
+Thư mục này dành cho các bài tập Lab 1.

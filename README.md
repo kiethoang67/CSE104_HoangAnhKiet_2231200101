@@ -6,7 +6,7 @@ Repository này chứa các bài tập cho khóa học CSE104, được tổ ch�
 
 ### Lab 1
 - Thư mục: `Lab1/`
-- Nội dung: (Đang cập nhật)
+- Nội dung: (Chưa có bài tập)
 
 ### Lab 2
 - Thư mục: `Lab2/`
