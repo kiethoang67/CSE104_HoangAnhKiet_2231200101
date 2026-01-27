@@ -16,8 +16,6 @@ public class EIVCHR2 {
             totalMoney += money;
             maxPrice = Math.max(maxPrice, money);
         }
-        
-        // Apply 30% discount (max 50000) to the most expensive item
         long discount = (maxPrice * 3) / 10;
         if (discount > 50000) {
             discount = 50000;
