@@ -22,7 +22,7 @@ public class EIVCHR3 {
         
         
         long totalDiscount = 0;
-        for (int i = 0; i < numOfVoucher; i++) {
+        for (int i = 0; i < Math.min(numOfItem, numOfVoucher); i++) {
             long itemPrice = prices[numOfItem - 1 - i]; 
             long discount = (itemPrice * 3) / 10;  
             if (discount > 50000) {
