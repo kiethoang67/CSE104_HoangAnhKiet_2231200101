@@ -6,7 +6,7 @@ public class EIUPASSBOOK {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        double X = sc.nextDouble(); // KHÔNG dùng int
+        double X = sc.nextDouble(); 
         int n = sc.nextInt();
         int m = sc.nextInt();
         double r1 = sc.nextDouble();
