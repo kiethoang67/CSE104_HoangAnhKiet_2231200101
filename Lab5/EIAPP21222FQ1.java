@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class EIAPP21222FQ2 {
+class EIAPP21222FQ1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int m = sc.nextInt();
